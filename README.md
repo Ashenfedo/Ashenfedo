@@ -1,12 +1,11 @@
 <h1 align="center">Hey 👋, I'm Ashen Fernando </h1>
-<h3 align="center">I am currently working as an <strong>Electronics Engineer </strong> at Zone 24x7 (Pvt) Ltd, Nawala, Sri Lanka. <p></pI>I'm interested in Firmware development and Embedded Systems   <p></pI></h3>
+<h3 align="center">I am currently working as an <strong>Electronics Engineer </strong> at Zone 24x7 (Pvt) Ltd, Nawala, Sri Lanka. <p></pI> <p></pI></h3>
 <p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashen-fernando-aaaa043b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshan-chamara" height="30" width="40" /></a>
-<a href="https://web.facebook.com/ashen.fernando.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshan chamara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashenfedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oshan.chamara.9484" height="30" width="40" /></a>
+</a>
 </p> 
   
   
@@ -18,7 +17,11 @@
 <!--
 **Ashenfedo/Ashenfedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://web.facebook.com/ashen.fernando.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshan chamara" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashenfedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oshan.chamara.9484" height="30" width="40" />
 Here are some ideas to get you started:
+
+I'm interested in Firmware development and Embedded Systems   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
